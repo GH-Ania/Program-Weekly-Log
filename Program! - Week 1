@@ -10,7 +10,7 @@
     </head>
 <div class="box">
   <body>
-        <h1>This is where the word will be and if there's more words it will break like this and this and this.</h1>
+        <p>This is where the word will be and if there's more words it will break like this and this and this.</p>
     </body>
     </div>
 </html>
