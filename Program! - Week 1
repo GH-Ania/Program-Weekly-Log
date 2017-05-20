@@ -1,0 +1,16 @@
+<!--My intention is to have a random word generate in the middle of the browser.-->
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>One thing</title>
+        <link rel="stylesheet"
+              type="text/css"
+              href="style.css"
+                        
+    </head>
+<div class="box">
+  <body>
+        <h1>This is where the word will be and if there's more words it will break like this and this and this.</h1>
+    </body>
+    </div>
+</html>
